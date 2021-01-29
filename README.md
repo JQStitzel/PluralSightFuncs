@@ -1,0 +1,2 @@
+# PluralSightFuncs
+Azure Functions PluralSight
